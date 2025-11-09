@@ -3,7 +3,6 @@ import {createBrowserRouter, RouterProvider} from "react-router-dom"
 import Home from './routes/home/Home'
 import Navbar from './components/navbar/Navbar'
 import Favourites from './routes/favourites/Favourites'
-import Card from './components/card/card'
 import Surah from './components/surahdetails/Surah'
 
 const router = createBrowserRouter(
