@@ -7,3 +7,5 @@ To run the app use following command
 ```npm run dev```
 
 Feel free to contribute
+
+made with love
